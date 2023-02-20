@@ -1,0 +1,12 @@
+# Participants to the reading group
+
+Replace `…` by `cam.ac.uk` to get proper email addresses.
+
+- Meven Lennon-Bertrand (mgapb2@…)
+- Chiara Sarti (cs2197@…)
+- Ambroise Lafont (ael62@…)
+- Ilya Kaysin (ik404@…)
+- Neel Krishnaswami (nk480@cl.…)
+- Andy Pitts (Andrew.Pitts@cl.…)
+- Alex Rice (aar53@…)
+- Tomáš Jakl (Tomas.Jakl@cl.…)
