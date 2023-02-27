@@ -14,3 +14,4 @@ Replace `…` by `cam.ac.uk` to get proper email addresses.
 - David Berry (dgb37@…)
 - Yulong Huang (yh419@…)
 - Calin Tataru (ct608@…)
+- Jad Ghalayini (jeg74@…)
