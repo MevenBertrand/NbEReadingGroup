@@ -7,7 +7,7 @@
 - [Andreas Abel's Habilitation](https://www.cse.chalmers.se/~abela/publications.html#habil)
 (defunctionalized NbE)
 - [Implementing a modal dependent type theory](https://dl.acm.org/doi/abs/10.1145/3341711), and its [implementation](https://github.com/jozefg/blott)
-- [Semantic analysis of normalisation by evaluation for typed lambda calculus](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/semantic-analysis-of-normalisation-by-evaluation-for-typed-lambda-calculus/E3727362B3E059149680CC3482FFDCFC) (baby version of Jon's stuff)
+- [Semantic analysis of normalisation by evaluation for typed lambda calculus](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/semantic-analysis-of-normalisation-by-evaluation-for-typed-lambda-calculus/E3727362B3E059149680CC3482FFDCFC) (Marcelo's work, non-dependent version of Jon's stuff)
 - [Notes on sconing and relators](https://link.springer.com/chapter/10.1007/3-540-56992-8_21) (early usage of glueing?)
 - [Type-directed partial evaluation](https://dl.acm.org/doi/abs/10.1145/237721.237784) (the og paper)
 
