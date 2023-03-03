@@ -13,6 +13,6 @@ Replace `…` by `cam.ac.uk` to get proper email addresses.
 - Rini Banerjee (rb2018@…)
 - David Berry (dgb37@…)
 - Yulong Huang (yh419@…)
-- Calin Tataru (ct608@…)
 - Jad Ghalayini (jeg74@…)
 - Marcelo Fiore (marcelo.fiore@cl.…)
+- Jeremy Yallop (jeremy.yallop@cl.…)
