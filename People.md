@@ -10,7 +10,6 @@ Replace `…` by `cam.ac.uk` to get proper email addresses.
 - Andy Pitts (Andrew.Pitts@cl.…)
 - Alex Rice (aar53@…)
 - Tomáš Jakl (Tomas.Jakl@cl.…)
-- Rini Banerjee (rb2018@…)
 - David Berry (dgb37@…)
 - Yulong Huang (yh419@…)
 - Jad Ghalayini (jeg74@…)
