@@ -15,3 +15,4 @@ Replace `…` by `cam.ac.uk` to get proper email addresses.
 - Jad Ghalayini (jeg74@…)
 - Marcelo Fiore (marcelo.fiore@cl.…)
 - Jeremy Yallop (jeremy.yallop@cl.…)
+- Matthew Sirman (ms2649@…)
