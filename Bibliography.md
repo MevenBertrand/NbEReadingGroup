@@ -7,7 +7,7 @@
 - [Andreas Abel's Habilitation](https://www.cse.chalmers.se/~abela/publications.html#habil)
 (defunctionalized NbE)
 - [Implementing a modal dependent type theory](https://dl.acm.org/doi/abs/10.1145/3341711), and its [implementation](https://github.com/jozefg/blott)
-- [Semantic analysis of normalisation by evaluation for typed lambda calculus](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/semantic-analysis-of-normalisation-by-evaluation-for-typed-lambda-calculus/E3727362B3E059149680CC3482FFDCFC) (Marcelo's work, non-dependent version of Jon's stuff)
+- [Semantic analysis of normalisation by evaluation for typed lambda calculus](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/semantic-analysis-of-normalisation-by-evaluation-for-typed-lambda-calculus/E3727362B3E059149680CC3482FFDCFC) (Marcelo's work, non-dependent version of Sterling's stuff)
 - [Notes on sconing and relators](https://link.springer.com/chapter/10.1007/3-540-56992-8_21) (early usage of glueing?)
 - [Type-directed partial evaluation](https://dl.acm.org/doi/abs/10.1145/237721.237784) (the og paper)
 
@@ -22,13 +22,14 @@
 
 ### Andy's suggestions
 
-- Jon's [lecture notes](https://www.jonmsterling.com/papers/sterling-2022-naive.pdf)
+- Sterling's [lecture notes](https://www.jonmsterling.com/papers/sterling-2022-naive.pdf)
 - Implementing…
 
 ### More
 
-- Jon's [dissertation overview](https://www.jonmsterling.com/forest/trees/jms-000q/)
+- Sterling's [dissertation overview](https://www.jonmsterling.com/forest/trees/jms-000q/)
 - Coq's stuff: [native_compute](https://link.springer.com/chapter/10.1007/978-3-642-25379-9_26) (explicitly sold as "untyped NbE") and [vm_compute](https://dl.acm.org/doi/10.1145/583852.581501) (older, maybe not so NbE?)
 - [Canonicity and normalisation for Dependent Type Theory](https://arxiv.org/abs/1810.09367), typical short but efficient Coquand paper
 - [A functional correspondence between evaluators and abstract machines](https://dl.acm.org/doi/abs/10.1145/888251.888254) equivalence between the NbE and abstract machine approaches
 - [A Machine-Checked Correctness Proof of Normalization by Evaluation for Simply Typed Lambda Calculus](https://andraskovacs.github.io/pdfs/mscthesis.pdf) (András Kovács master thesis)
+- Gratzer's implementations in ML of NbE for dependent types: [vanilla MLTT](https://github.com/jozefg/nbe-for-mltt), [a modal dependent type theory](https://github.com/jozefg/blott), and [a multi-modal dependent type theory](https://github.com/logsem/mitten_preorder)
