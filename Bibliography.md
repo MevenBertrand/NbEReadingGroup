@@ -23,6 +23,7 @@
 
 - [A Machine-Checked Correctness Proof of Normalization by Evaluation for Simply Typed Lambda Calculus](https://andraskovacs.github.io/pdfs/mscthesis.pdf) (András Kovács master thesis).
 - [A Coq formalization of normalization by evaluation for Martin-Löf type theory](https://dl.acm.org/doi/abs/10.1145/3167091): formalization, in Coq, of NbE for a dependently typed system (but without large elimination), following Abel.
+- [Normalisation by Evaluation for Type Theory, in Type Theory](https://lmcs.episciences.org/4005): formalisation, in Agda, using QIITs.
 
 ### Applications and relations to other fields
 
