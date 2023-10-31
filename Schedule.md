@@ -1,6 +1,6 @@
 # Sessions, with the place, subject and presenter
 
-The regular time is 16:00 on Mondays.
+The regular time is 11:00(+15min) on Tuesdays.
 
 Date | Place | Subject
 --------|-------|-------
@@ -23,4 +23,5 @@ Date | Place | Subject
 10/10 | FC22 | Catch-up I: Abel's Habilitation
 17/10 | FC22 | Catch-up II: Fiore's paper
 24/10 | FC22 | Catch-up bonus: Fiore's paper again
-31/10 | FW09 | Jon on STC, part 1
+31/10 | FW09 | Jon on STC, part 1: natural models of dependent type theory and their morphisms
+07/11 | SS03 | Jon on STC, part 2

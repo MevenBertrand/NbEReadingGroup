@@ -32,6 +32,9 @@
 
 ### Synthetic Tait Computability
 
+We are reading: [Towards a geometry of syntax](https://arxiv.org/abs/2307.09497).
+Other resources include:
+
 - Sterling's [lecture notes](https://www.jonmsterling.com/papers/sterling-2022-naive.pdf) for the Types WG6 in April 2022
 - His [dissertation overview](https://www.jonmsterling.com/forest/trees/jms-000q/)
 - And of course, his [PhD](https://www.jonmsterling.com/bibliography.html#dissertations)
